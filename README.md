@@ -1,4 +1,4 @@
-# 🎬 Z-FLIX
+# Z-FLIX
 
 Application desktop de streaming pour Windows.
 
@@ -13,7 +13,7 @@ Application desktop de streaming pour Windows.
 | **Setup** (Recommandé) | [Télécharger](https://github.com/Apnkk/z-flix-app/releases/latest/download/Z-FLIX-Setup-1.0.0.exe) | ~180 MB |
 | **Portable** | [Télécharger](https://github.com/Apnkk/z-flix-app/releases/latest/download/Z-FLIX-Portable-1.0.0.exe) | ~98 MB |
 
-## 🚀 Installation
+## Installation
 
 ### Option 1 : Setup (Recommandé)
 1. Téléchargez `Z-FLIX-Setup-1.0.0.exe`
@@ -52,8 +52,8 @@ Application desktop de streaming pour Windows.
 ## 🛡️ Sécurité
 
 - Application signée
-- Sans virus garanti
-- Code source obfusqué
+- Sans virus
+- Code source obfusqué (contre les vols)
 
 ## 📞 Support
 
