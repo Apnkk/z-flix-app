@@ -10,8 +10,8 @@ Application desktop de streaming pour Windows.
 
 | Version | Lien | Taille |
 |---------|------|--------|
-| **Setup** (Recommandé) | [Télécharger](https://github.com/Apnkk/z-flix-app/releases/latest/download/Z-FLIX-Setup-1.0.0.exe) | ~180 MB |
-| **Portable** | [Télécharger](https://github.com/Apnkk/z-flix-app/releases/latest/download/Z-FLIX-Portable-1.0.0.exe) | ~98 MB |
+| **Setup** (Recommandé) | [Télécharger](https://github.com/Apnkk/z-flix-app/releases/download/v1.1.0/Z-FLIX-Setup-1.1.0.exe) | ~180 MB |
+| **Portable** | [Télécharger](https://github.com/Apnkk/z-flix-app/releases/download/v1.1.0/Z-FLIX-Portable-1.1.0.exe) | ~98 MB |
 
 ## Installation
 
