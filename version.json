@@ -2,5 +2,5 @@
   "version": "1.1.0",
   "date": "2026-04-16",
   "changes": "New: Discord OAuth2 integration for account connection.\nNew: Profile session persistence extended to 30 days.\nOptimization: Refactored media player engine for reduced latency.\nOptimization: Improved memory management and core application responsiveness.\nFix: Enhanced session token handling and profile data caching.",
-  "downloadUrl": ""
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v1.1.0/Z-FLIX-Setup-1.1.0.exe"
 }
