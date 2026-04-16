@@ -36,12 +36,12 @@ Application desktop de streaming pour Windows.
 - 👥 **Watch Party** — Regardez à plusieurs
 - 📱 **Multi-profil** — Profils séparés pour chaque utilisateur
 
-## 🖥️ Compatibilité
+## Compatibilité
 
 - Windows 10 (64-bit)
 - Windows 11 (64-bit)
 
-## 📋 Changelog
+## Changelog
 
 ### v1.0.0
 - Première release
@@ -49,13 +49,13 @@ Application desktop de streaming pour Windows.
 - Interface personnalisée
 - Système de mise à jour automatique
 
-## 🛡️ Sécurité
+## Sécurité
 
 - Application signée
 - Sans virus
 - Code source obfusqué (contre les vols)
 
-## 📞 Support
+## Support
 
 En cas de problème, ouvrez une [issue](https://github.com/Apnkk/z-flix-app/issues).
 
