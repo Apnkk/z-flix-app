@@ -1,7 +1,7 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "date": "2026-04-18",
-  "changes": "Skip intro · Tray · Discord RPC enrichi avec progression · Toast update avec changelog · PWA · Drag&drop Ma Liste · Badges · Notifs Greenlight · Theme couleur · Perf home",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.1.0/Z-FLIX-Setup-3.1.0.exe",
+  "changes": "FIX GLOBAL + LIMITATIONS INTERVALS",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.1.1/Z-FLIX-Setup-3.1.1.exe",
   "mandatory": false
 }
