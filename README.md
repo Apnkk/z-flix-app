@@ -2,7 +2,7 @@
 
 Application desktop de streaming pour Windows.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
