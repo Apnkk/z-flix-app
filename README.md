@@ -16,13 +16,13 @@ Application desktop de streaming pour Windows.
 ## Installation
 
 ### Option 1 : Setup (Recommandé)
-1. Téléchargez `Z-FLIX-Setup-1.0.0.exe`
+1. Téléchargez `Z-FLIX-Setup-(version).exe`
 2. Exécutez le fichier
 3. Suivez l'installation
 4. Lancez Z-FLIX depuis le menu démarrer ou le bureau
 
 ### Option 2 : Portable
-1. Téléchargez `Z-FLIX-Portable-1.0.0.exe`
+1. Téléchargez `Z-FLIX-Portable-(version).exe`
 2. Placez-le où vous voulez
 3. Double-cliquez pour lancer
 
@@ -40,14 +40,6 @@ Application desktop de streaming pour Windows.
 
 - Windows 10 (64-bit)
 - Windows 11 (64-bit)
-
-## Changelog
-
-### v1.0.0
-- Première release
-- Lecteur VIP optimisé
-- Interface personnalisée
-- Système de mise à jour automatique
 
 ## Sécurité
 
