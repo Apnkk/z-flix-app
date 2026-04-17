@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "date": "2026-04-17",
-  "changes": "Menu contextuel personnalisé; Notifications natives; Démarrage au boot; Updater silencieux; Bridge preload",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v1.0.2/Z-FLIX-Setup-1.0.2.exe"
+  "changes": "Ajout d’une signature; Optimization",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v1.0.3/Z-FLIX-Setup-1.0.3.exe"
 }
