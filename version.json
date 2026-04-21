@@ -1,7 +1,7 @@
 {
-  "version": "3.2.0",
-  "date": "2026-04-18",
-  "changes": "Responsive Pages; Fixes Somes Bugs; Fixes Card Rotation",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.2.0/Z-FLIX-Setup-3.2.0.exe",
+  "version": "3.2.1",
+  "date": "2026-04-21",
+  "changes": "Add New Settings Interfaces; Optimisation; Rpc Amelioration",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v3.2.1/Z-FLIX-Setup-3.2.1.exe",
   "mandatory": false
 }
