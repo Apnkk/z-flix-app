@@ -1,8 +1,8 @@
 {
-  "version": "4.5.3",
-  "date": "2026-06-30",
-  "changes": "Support complet de la connexion et liaison Google et Discord OAuth depuis l'application de bureau.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v4.5.3/Z-FLIX-Setup-4.5.3.exe",
-  "sha512": "4884162ea40524c42b5a02329ca187559d956b864c5994217f5a66adaff8903049e60578e58c85f9916dc1371c856bab9286c88b37f9d18ce32eb9190423b61d",
+  "version": "5.0.0",
+  "date": "2026-08-03",
+  "changes": "Mise à jour majeure 5.0.0 : Discord Rich Presence (nouveau Client ID), soft-update pendant lecture, correctifs lecteurs Overflow/Kehflix, nouvelles sources.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.0.0/Z-FLIX-Setup-5.0.0.exe",
+  "sha512": "105eb9850877fe5e0db3db7496409964474ecd708d9536992164efc8648779bc217d4c3b13cfc6bc69bb52e5a2ba58d6b57197b1d2c0c7e79ee874e5744a8e85",
   "mandatory": false
 }
