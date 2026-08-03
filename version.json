@@ -1,8 +1,8 @@
 {
-  "version": "5.0.1",
-  "date": "2026-08-03",
-  "changes": "Correctif Google OAuth desktop : login reste dans l'app + deep link z-flix:// pour retour navigateur.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.0.1/Z-FLIX-Setup-5.0.1.exe",
-  "sha512": "727988e6bf7599ff18fe630a97f154af56297e7ac16f9bc0fa04d76734fbb2b5fc72ad00bc9f6288c0c956534392f56863c2dc4c69f688a38e17e40a42255d5c",
+  "version": "5.0.2",
+  "date": "2026-08-04",
+  "changes": "Cache-bust updater version.json (plus de faux « à jour »). Inclut correctif Google OAuth desktop + deep link z-flix://.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.0.2/Z-FLIX-Setup-5.0.2.exe",
+  "sha512": "e9e8aa60825d1a903c7b8a89e3d8dc709e4d7f470183444920ce3c1c40d8631ba0ed16948cfad240ee6e2732f63a68fd938b327bf33f4ba7edd81c6663869b80",
   "mandatory": false
 }
