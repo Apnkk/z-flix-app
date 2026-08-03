@@ -1,8 +1,8 @@
 {
-  "version": "5.0.0",
+  "version": "5.0.1",
   "date": "2026-08-03",
-  "changes": "Mise à jour majeure 5.0.0 : Discord Rich Presence (nouveau Client ID), soft-update pendant lecture, correctifs lecteurs Overflow/Kehflix, nouvelles sources.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.0.0/Z-FLIX-Setup-5.0.0.exe",
-  "sha512": "105eb9850877fe5e0db3db7496409964474ecd708d9536992164efc8648779bc217d4c3b13cfc6bc69bb52e5a2ba58d6b57197b1d2c0c7e79ee874e5744a8e85",
+  "changes": "Correctif Google OAuth desktop : login reste dans l'app + deep link z-flix:// pour retour navigateur.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.0.1/Z-FLIX-Setup-5.0.1.exe",
+  "sha512": "727988e6bf7599ff18fe630a97f154af56297e7ac16f9bc0fa04d76734fbb2b5fc72ad00bc9f6288c0c956534392f56863c2dc4c69f688a38e17e40a42255d5c",
   "mandatory": false
 }
