@@ -1,8 +1,8 @@
-{
-  "version": "5.1.1",
+﻿{
+  "version": "5.1.2",
   "date": "2026-08-04",
-  "changes": "Correctif verification mises a jour (BOM/JSON parser).",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.1.1/Z-FLIX-Setup-5.1.1.exe",
-  "sha512": "7cdf71ae231529af95049c1b100dd3a5b4530a6632cd9d3d055aed2fbf6c0e632eb7ad0c2f0d9722cdeefde2956ca47b617138a84e9c7f941ebe260da5b35985",
+  "changes": "Hors ligne: retry segments HTTP 502, unwrap proxy CDN, prefer 480p + FrAnime MP4.",
+  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v5.1.2/Z-FLIX-Setup-5.1.2.exe",
+  "sha512": "ddeffd21a4543a0609e16be739cc26333bd8258062280acc6094ed08637576da04b532c07434950f0b1a9542a1f5cf799bdbac5308e389c97b0f8f72de3ad1dd",
   "mandatory": false
 }
