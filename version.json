@@ -1,8 +1,8 @@
 {
-  "version": "5.1.0",
+  "version": "5.1.1",
   "date": "2026-08-04",
-  "changes": "Telechargements hors ligne (VIP) : films/series en local, page Hors ligne, lecture sans reseau.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.1.0/Z-FLIX-Setup-5.1.0.exe",
-  "sha512": "e4916984e6da75da9ccc4bc00501146e6855e0d0d9c03c04f9c88b648c9a6d24879c704b4d39a5021c3ec1cfdab8ed5be0797fbb6f6c9212b09e455740ac958a",
+  "changes": "Correctif verification mises a jour (BOM/JSON parser).",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.1.1/Z-FLIX-Setup-5.1.1.exe",
+  "sha512": "7cdf71ae231529af95049c1b100dd3a5b4530a6632cd9d3d055aed2fbf6c0e632eb7ad0c2f0d9722cdeefde2956ca47b617138a84e9c7f941ebe260da5b35985",
   "mandatory": false
 }
