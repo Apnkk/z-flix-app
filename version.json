@@ -1,8 +1,8 @@
-{
-  "version": "5.0.2",
+﻿{
+  "version": "5.1.0",
   "date": "2026-08-04",
-  "changes": "Cache-bust updater version.json (plus de faux « à jour »). Inclut correctif Google OAuth desktop + deep link z-flix://.",
-  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.0.2/Z-FLIX-Setup-5.0.2.exe",
-  "sha512": "e9e8aa60825d1a903c7b8a89e3d8dc709e4d7f470183444920ce3c1c40d8631ba0ed16948cfad240ee6e2732f63a68fd938b327bf33f4ba7edd81c6663869b80",
+  "changes": "Téléchargements hors ligne (VIP) : films/séries en local, page Hors ligne, lecture sans réseau.",
+  "downloadUrl": "https://github.com/Apnkk/z-flix-app/releases/download/v5.1.0/Z-FLIX-Setup-5.1.0.exe",
+  "sha512": "e4916984e6da75da9ccc4bc00501146e6855e0d0d9c03c04f9c88b648c9a6d24879c704b4d39a5021c3ec1cfdab8ed5be0797fbb6f6c9212b09e455740ac958a",
   "mandatory": false
 }
