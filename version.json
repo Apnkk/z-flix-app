@@ -1,8 +1,8 @@
-﻿{
-  "version": "5.1.4",
-  "date": "2026-08-04",
-  "changes": "Fix critique: preload sandbox (5.1.3 cassait hors ligne). HLS via electron net.fetch + session Chromium.",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v5.1.4/Z-FLIX-Setup-5.1.4.exe",
-  "sha512": "0a5f83303b534c8485aad5e9a0de4cd14a8077d32eabee354a7914a2765f890c3fd7fe993d2360a09957af461da01062ba85cb5a9f6d123f80c3747dfb0785e8",
-  "mandatory": true
+{
+  "version": "5.1.5",
+  "date": "2026-08-05",
+  "changes": "Oscar Bleach VF: Sibnet MP4 dans lecteur perso (Referer video.sibnet.ru). Plus d'iframe hoster.",
+  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v5.1.5/Z-FLIX-Setup-5.1.5.exe",
+  "sha512": "c780404559c0c8a1aecc299de6239500513b58e6a7bb6c80924ba8caacc396b4d8fd99018e61eae20b2c2a2716f09b25c4d39158159b19f834cdcf7c4a11edfa",
+  "mandatory": false
 }
