@@ -1,8 +1,8 @@
 {
-  "version": "6.0.56",
+  "version": "6.0.58",
   "date": "2026-09-05",
-  "changes": "Frembed et X-Ray réparés (StreamVault v2 1080p), Oscar/Nartya retirés.",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.56/Z-Movies_6.0.56_x64-setup.exe",
-  "sha512": "49aa2ece908d59e8f0a62ff0c31126bb43861c8cd99ca693eaea770884d33d2ad7b23d2f65aff679a3717187cb3d569d2149c056161b0be49061f178b3c5ce34",
+  "changes": "Lancement ultra-rapide et montée en qualité progressive 1080p, proxy média loopback DoH optimisé.",
+  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.58/Z-Movies_6.0.58_x64-setup.exe",
+  "sha512": "276fdbff0e23f0b451ae6e4be731bd3435fa4f98dcb3ef532d6aca5dda6c6173fc7199d8cc61c455196097b053c6d87a4b59881b43e1f25c7a1f46abc27ada3d",
   "mandatory": false
 }
