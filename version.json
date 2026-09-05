@@ -1,8 +1,8 @@
 {
-  "version": "6.0.58",
+  "version": "6.0.59",
   "date": "2026-09-05",
-  "changes": "Lancement ultra-rapide et montée en qualité progressive 1080p, proxy média loopback DoH optimisé.",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.58/Z-Movies_6.0.58_x64-setup.exe",
-  "sha512": "276fdbff0e23f0b451ae6e4be731bd3435fa4f98dcb3ef532d6aca5dda6c6173fc7199d8cc61c455196097b053c6d87a4b59881b43e1f25c7a1f46abc27ada3d",
+  "changes": "Barre latérale réduite par défaut (configurable), lecteur vidéo modernisé sans trait rouge et confort de visionnage accru.",
+  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.59/Z-Movies_6.0.59_x64-setup.exe",
+  "sha512": "d794d44dc4a9147d813158b900738b5512fadb99396ffd75c0b50ed82fee5cd86e558acbeb4acd3fe45bdc2ce8608c4a84dff8e0fa4343663a6dfd8426d08ea1",
   "mandatory": false
 }
