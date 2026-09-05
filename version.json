@@ -1,8 +1,8 @@
 {
-  "version": "5.1.5",
-  "date": "2026-08-05",
-  "changes": "Oscar Bleach VF: Sibnet MP4 dans lecteur perso (Referer video.sibnet.ru). Plus d'iframe hoster.",
-  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v5.1.5/Z-FLIX-Setup-5.1.5.exe",
-  "sha512": "c780404559c0c8a1aecc299de6239500513b58e6a7bb6c80924ba8caacc396b4d8fd99018e61eae20b2c2a2716f09b25c4d39158159b19f834cdcf7c4a11edfa",
+  "version": "6.0.56",
+  "date": "2026-09-05",
+  "changes": "Frembed et X-Ray réparés (StreamVault v2 1080p), Oscar/Nartya retirés.",
+  "downloadUrl": "https://github.com/Apnkk/Z-FLIX-app/releases/download/v6.0.56/Z-Movies_6.0.56_x64-setup.exe",
+  "sha512": "49aa2ece908d59e8f0a62ff0c31126bb43861c8cd99ca693eaea770884d33d2ad7b23d2f65aff679a3717187cb3d569d2149c056161b0be49061f178b3c5ce34",
   "mandatory": false
 }
